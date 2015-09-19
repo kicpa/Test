@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MoneyBall</string>
+    <string name="title_section0">MoneyBall 메인</string>
+    <string name="title_section1">스탯 검색하기</string>
+    <string name="title_section2">E.A.R.</string>
+    <string name="title_section3">구장별 날씨 정보</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">토스트 예제</string>
+    <string name="action_settings">설정</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="icon">CommonsWare logo</string>
+
+</resources>
