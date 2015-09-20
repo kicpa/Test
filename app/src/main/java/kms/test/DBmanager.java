@@ -11,7 +11,6 @@ import android.util.Log;
 public class DBmanager extends SQLiteOpenHelper {
 
 
-
     public DBmanager(Context context, String name, SQLiteDatabase.CursorFactory factory, int version) {
         super(context, name, factory, version);
     }
